@@ -2,16 +2,17 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The problem is making a function the takes two strings and tells home many character differences there is.
+The challenge is getting a good understanding of the problem.
 
 ## Description
-TODO - How have you solved the problem?
+Using if and while loops, I was able to make it work.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+THis project is for training purposes.
 
 ## Usage
-TODO - How does it work?
+This project is for training purposes.
 ```
 ./my_project argument1 argument2
 ```
